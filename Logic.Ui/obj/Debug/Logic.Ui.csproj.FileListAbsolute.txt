@@ -1,0 +1,62 @@
+C:\Users\yazan\OneDrive\Desktop\ClientApp093\Logic.Ui\bin\Debug\Logic.Ui.dll
+C:\Users\yazan\OneDrive\Desktop\ClientApp093\Logic.Ui\bin\Debug\Logic.Ui.pdb
+C:\Users\yazan\OneDrive\Desktop\ClientApp093\Logic.Ui\obj\Debug\Logic.Ui.csproj.CoreCompileInputs.cache
+C:\Users\yazan\OneDrive\Desktop\ClientApp093\Logic.Ui\obj\Debug\Logic.Ui.dll
+C:\Users\yazan\OneDrive\Desktop\ClientApp093\Logic.Ui\obj\Debug\Logic.Ui.pdb
+C:\Users\yazan\OneDrive\Desktop\Gruppe_093\ClientApp093\Logic.Ui\bin\Debug\Logic.Ui.dll
+C:\Users\yazan\OneDrive\Desktop\Gruppe_093\ClientApp093\Logic.Ui\bin\Debug\Logic.Ui.pdb
+C:\Users\yazan\OneDrive\Desktop\Gruppe_093\ClientApp093\Logic.Ui\obj\Debug\Logic.Ui.csprojAssemblyReference.cache
+C:\Users\yazan\OneDrive\Desktop\Gruppe_093\ClientApp093\Logic.Ui\obj\Debug\Logic.Ui.csproj.CoreCompileInputs.cache
+C:\Users\yazan\OneDrive\Desktop\Gruppe_093\ClientApp093\Logic.Ui\obj\Debug\Logic.Ui.dll
+C:\Users\yazan\OneDrive\Desktop\Gruppe_093\ClientApp093\Logic.Ui\obj\Debug\Logic.Ui.pdb
+C:\Users\yazan\OneDrive\Desktop\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Gruppe_093\Gruppe_093\ClientApp093\Logic.Ui\bin\Debug\Logic.Ui.dll
+C:\Users\yazan\OneDrive\Desktop\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Gruppe_093\Gruppe_093\ClientApp093\Logic.Ui\bin\Debug\Logic.Ui.pdb
+C:\Users\yazan\OneDrive\Desktop\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Gruppe_093\Gruppe_093\ClientApp093\Logic.Ui\bin\Debug\Business.Model.dll
+C:\Users\yazan\OneDrive\Desktop\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Gruppe_093\Gruppe_093\ClientApp093\Logic.Ui\bin\Debug\Business.Model.pdb
+C:\Users\yazan\OneDrive\Desktop\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Gruppe_093\Gruppe_093\ClientApp093\Logic.Ui\obj\Debug\Logic.Ui.csprojAssemblyReference.cache
+C:\Users\yazan\OneDrive\Desktop\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Gruppe_093\Gruppe_093\ClientApp093\Logic.Ui\obj\Debug\Logic.Ui.csproj.CoreCompileInputs.cache
+C:\Users\yazan\OneDrive\Desktop\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Gruppe_093\Gruppe_093\ClientApp093\Logic.Ui\obj\Debug\Logic.Ui.csproj.CopyComplete
+C:\Users\yazan\OneDrive\Desktop\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Gruppe_093\Gruppe_093\ClientApp093\Logic.Ui\obj\Debug\Logic.Ui.dll
+C:\Users\yazan\OneDrive\Desktop\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Gruppe_093\Gruppe_093\ClientApp093\Logic.Ui\obj\Debug\Logic.Ui.pdb
+C:\Users\yazan\OneDrive\Desktop\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Gruppe_093\Gruppe_093\ClientApp093\Logic.Ui\bin\Debug\Services.MessageBus.dll
+C:\Users\yazan\OneDrive\Desktop\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Gruppe_093\Gruppe_093\ClientApp093\Logic.Ui\bin\Debug\Services.MessageBus.pdb
+C:\Users\yazan\OneDrive\Desktop\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Gruppe_093\Gruppe_093\ClientApp093\Logic.Ui\bin\Debug\iTextSharp.dll
+C:\Users\yazan\OneDrive\Desktop\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Gruppe_093\Gruppe_093\ClientApp093\Logic.Ui\bin\Debug\Service.XMLSerialize.dll
+C:\Users\yazan\OneDrive\Desktop\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Gruppe_093\Gruppe_093\ClientApp093\Logic.Ui\bin\Debug\Service.XMLSerialize.pdb
+C:\Users\yazan\OneDrive\Desktop\Anwendungsprogrammierung\ClientApp093\Logic.Ui\bin\Debug\Logic.Ui.dll
+C:\Users\yazan\OneDrive\Desktop\Anwendungsprogrammierung\ClientApp093\Logic.Ui\bin\Debug\Logic.Ui.pdb
+C:\Users\yazan\OneDrive\Desktop\Anwendungsprogrammierung\ClientApp093\Logic.Ui\bin\Debug\Business.Model.dll
+C:\Users\yazan\OneDrive\Desktop\Anwendungsprogrammierung\ClientApp093\Logic.Ui\bin\Debug\iTextSharp.dll
+C:\Users\yazan\OneDrive\Desktop\Anwendungsprogrammierung\ClientApp093\Logic.Ui\bin\Debug\Service.XMLSerialize.dll
+C:\Users\yazan\OneDrive\Desktop\Anwendungsprogrammierung\ClientApp093\Logic.Ui\bin\Debug\Services.MessageBus.dll
+C:\Users\yazan\OneDrive\Desktop\Anwendungsprogrammierung\ClientApp093\Logic.Ui\bin\Debug\Business.Model.pdb
+C:\Users\yazan\OneDrive\Desktop\Anwendungsprogrammierung\ClientApp093\Logic.Ui\bin\Debug\Service.XMLSerialize.pdb
+C:\Users\yazan\OneDrive\Desktop\Anwendungsprogrammierung\ClientApp093\Logic.Ui\bin\Debug\Services.MessageBus.pdb
+C:\Users\yazan\OneDrive\Desktop\Anwendungsprogrammierung\ClientApp093\Logic.Ui\obj\Debug\Logic.Ui.csprojAssemblyReference.cache
+C:\Users\yazan\OneDrive\Desktop\Anwendungsprogrammierung\ClientApp093\Logic.Ui\obj\Debug\Logic.Ui.csproj.CoreCompileInputs.cache
+C:\Users\yazan\OneDrive\Desktop\Anwendungsprogrammierung\ClientApp093\Logic.Ui\obj\Debug\Logic.Ui.csproj.CopyComplete
+C:\Users\yazan\OneDrive\Desktop\Anwendungsprogrammierung\ClientApp093\Logic.Ui\obj\Debug\Logic.Ui.dll
+C:\Users\yazan\OneDrive\Desktop\Anwendungsprogrammierung\ClientApp093\Logic.Ui\obj\Debug\Logic.Ui.pdb
+D:\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Anwendungsprogrammierung\ClientApp093\Logic.Ui\bin\Debug\Logic.Ui.dll
+D:\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Anwendungsprogrammierung\ClientApp093\Logic.Ui\bin\Debug\Logic.Ui.pdb
+D:\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Anwendungsprogrammierung\ClientApp093\Logic.Ui\bin\Debug\Business.Model.dll
+D:\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Anwendungsprogrammierung\ClientApp093\Logic.Ui\bin\Debug\iTextSharp.dll
+D:\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Anwendungsprogrammierung\ClientApp093\Logic.Ui\bin\Debug\Service.XMLSerialize.dll
+D:\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Anwendungsprogrammierung\ClientApp093\Logic.Ui\bin\Debug\Services.MessageBus.dll
+D:\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Anwendungsprogrammierung\ClientApp093\Logic.Ui\bin\Debug\Business.Model.pdb
+D:\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Anwendungsprogrammierung\ClientApp093\Logic.Ui\bin\Debug\Service.XMLSerialize.pdb
+D:\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Anwendungsprogrammierung\ClientApp093\Logic.Ui\bin\Debug\Services.MessageBus.pdb
+D:\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Anwendungsprogrammierung\ClientApp093\Logic.Ui\obj\Debug\Logic.Ui.csproj.AssemblyReference.cache
+D:\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Anwendungsprogrammierung\ClientApp093\Logic.Ui\obj\Debug\Logic.Ui.csproj.CoreCompileInputs.cache
+D:\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Anwendungsprogrammierung\ClientApp093\Logic.Ui\obj\Debug\Logic.Ui.csproj.CopyComplete
+D:\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Anwendungsprogrammierung\ClientApp093\Logic.Ui\obj\Debug\Logic.Ui.dll
+D:\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Anwendungsprogrammierung\ClientApp093\Logic.Ui\obj\Debug\Logic.Ui.pdb
+C:\Users\yazan\OneDrive\Desktop\ClientApp093\Logic.Ui\obj\Debug\Logic.Ui.csproj.AssemblyReference.cache
+C:\Users\yazan\OneDrive\Desktop\ClientApp093\Logic.Ui\bin\Debug\Business.Model.dll
+C:\Users\yazan\OneDrive\Desktop\ClientApp093\Logic.Ui\bin\Debug\iTextSharp.dll
+C:\Users\yazan\OneDrive\Desktop\ClientApp093\Logic.Ui\bin\Debug\Service.XMLSerialize.dll
+C:\Users\yazan\OneDrive\Desktop\ClientApp093\Logic.Ui\bin\Debug\Services.MessageBus.dll
+C:\Users\yazan\OneDrive\Desktop\ClientApp093\Logic.Ui\bin\Debug\Business.Model.pdb
+C:\Users\yazan\OneDrive\Desktop\ClientApp093\Logic.Ui\bin\Debug\Service.XMLSerialize.pdb
+C:\Users\yazan\OneDrive\Desktop\ClientApp093\Logic.Ui\bin\Debug\Services.MessageBus.pdb
+C:\Users\yazan\OneDrive\Desktop\ClientApp093\Logic.Ui\obj\Debug\Logic.Ui.csproj.CopyComplete

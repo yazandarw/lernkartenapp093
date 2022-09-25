@@ -1,0 +1,35 @@
+C:\Users\yazan\OneDrive\Desktop\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Gruppe_093\Gruppe_093\ClientApp093\Service.XMLSerialize\obj\Debug\Service.XMLSerialize.csproj.CoreCompileInputs.cache
+C:\Users\yazan\OneDrive\Desktop\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Gruppe_093\Gruppe_093\ClientApp093\Service.XMLSerialize\bin\Debug\Service.XMLSerialize.dll
+C:\Users\yazan\OneDrive\Desktop\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Gruppe_093\Gruppe_093\ClientApp093\Service.XMLSerialize\bin\Debug\Service.XMLSerialize.pdb
+C:\Users\yazan\OneDrive\Desktop\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Gruppe_093\Gruppe_093\ClientApp093\Service.XMLSerialize\bin\Debug\Business.Model.dll
+C:\Users\yazan\OneDrive\Desktop\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Gruppe_093\Gruppe_093\ClientApp093\Service.XMLSerialize\bin\Debug\Business.Model.pdb
+C:\Users\yazan\OneDrive\Desktop\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Gruppe_093\Gruppe_093\ClientApp093\Service.XMLSerialize\obj\Debug\Service.XMLSerialize.csproj.CopyComplete
+C:\Users\yazan\OneDrive\Desktop\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Gruppe_093\Gruppe_093\ClientApp093\Service.XMLSerialize\obj\Debug\Service.XMLSerialize.dll
+C:\Users\yazan\OneDrive\Desktop\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Gruppe_093\Gruppe_093\ClientApp093\Service.XMLSerialize\obj\Debug\Service.XMLSerialize.pdb
+C:\Users\yazan\OneDrive\Desktop\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Gruppe_093\Gruppe_093\ClientApp093\Service.XMLSerialize\obj\Debug\Service.XMLSerialize.csprojAssemblyReference.cache
+C:\Users\yazan\OneDrive\Desktop\Anwendungsprogrammierung\ClientApp093\Service.XMLSerialize\bin\Debug\Service.XMLSerialize.dll
+C:\Users\yazan\OneDrive\Desktop\Anwendungsprogrammierung\ClientApp093\Service.XMLSerialize\bin\Debug\Service.XMLSerialize.pdb
+C:\Users\yazan\OneDrive\Desktop\Anwendungsprogrammierung\ClientApp093\Service.XMLSerialize\bin\Debug\Business.Model.dll
+C:\Users\yazan\OneDrive\Desktop\Anwendungsprogrammierung\ClientApp093\Service.XMLSerialize\bin\Debug\Business.Model.pdb
+C:\Users\yazan\OneDrive\Desktop\Anwendungsprogrammierung\ClientApp093\Service.XMLSerialize\obj\Debug\Service.XMLSerialize.csproj.CoreCompileInputs.cache
+C:\Users\yazan\OneDrive\Desktop\Anwendungsprogrammierung\ClientApp093\Service.XMLSerialize\obj\Debug\Service.XMLSerialize.csproj.CopyComplete
+C:\Users\yazan\OneDrive\Desktop\Anwendungsprogrammierung\ClientApp093\Service.XMLSerialize\obj\Debug\Service.XMLSerialize.dll
+C:\Users\yazan\OneDrive\Desktop\Anwendungsprogrammierung\ClientApp093\Service.XMLSerialize\obj\Debug\Service.XMLSerialize.pdb
+D:\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Anwendungsprogrammierung\ClientApp093\Service.XMLSerialize\bin\Debug\Service.XMLSerialize.dll
+D:\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Anwendungsprogrammierung\ClientApp093\Service.XMLSerialize\bin\Debug\Service.XMLSerialize.pdb
+D:\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Anwendungsprogrammierung\ClientApp093\Service.XMLSerialize\bin\Debug\Business.Model.dll
+D:\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Anwendungsprogrammierung\ClientApp093\Service.XMLSerialize\bin\Debug\Business.Model.pdb
+D:\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Anwendungsprogrammierung\ClientApp093\Service.XMLSerialize\obj\Debug\Service.XMLSerialize.csproj.AssemblyReference.cache
+D:\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Anwendungsprogrammierung\ClientApp093\Service.XMLSerialize\obj\Debug\Service.XMLSerialize.csproj.CoreCompileInputs.cache
+D:\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Anwendungsprogrammierung\ClientApp093\Service.XMLSerialize\obj\Debug\Service.XMLSerialize.csproj.CopyComplete
+D:\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Anwendungsprogrammierung\ClientApp093\Service.XMLSerialize\obj\Debug\Service.XMLSerialize.dll
+D:\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Anwendungsprogrammierung\ClientApp093\Service.XMLSerialize\obj\Debug\Service.XMLSerialize.pdb
+C:\Users\yazan\OneDrive\Desktop\ClientApp093\Service.XMLSerialize\bin\Debug\Service.XMLSerialize.dll
+C:\Users\yazan\OneDrive\Desktop\ClientApp093\Service.XMLSerialize\bin\Debug\Service.XMLSerialize.pdb
+C:\Users\yazan\OneDrive\Desktop\ClientApp093\Service.XMLSerialize\bin\Debug\Business.Model.dll
+C:\Users\yazan\OneDrive\Desktop\ClientApp093\Service.XMLSerialize\bin\Debug\Business.Model.pdb
+C:\Users\yazan\OneDrive\Desktop\ClientApp093\Service.XMLSerialize\obj\Debug\Service.XMLSerialize.csproj.AssemblyReference.cache
+C:\Users\yazan\OneDrive\Desktop\ClientApp093\Service.XMLSerialize\obj\Debug\Service.XMLSerialize.csproj.CoreCompileInputs.cache
+C:\Users\yazan\OneDrive\Desktop\ClientApp093\Service.XMLSerialize\obj\Debug\Service.XMLSerialize.csproj.CopyComplete
+C:\Users\yazan\OneDrive\Desktop\ClientApp093\Service.XMLSerialize\obj\Debug\Service.XMLSerialize.dll
+C:\Users\yazan\OneDrive\Desktop\ClientApp093\Service.XMLSerialize\obj\Debug\Service.XMLSerialize.pdb

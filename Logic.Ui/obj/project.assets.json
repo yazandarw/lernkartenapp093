@@ -1,0 +1,217 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "Business.Model/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Business.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Business.Model.dll": {}
+        }
+      },
+      "Service.XMLSerialize/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Business.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Service.XMLSerialize.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Service.XMLSerialize.dll": {}
+        }
+      },
+      "Services.MessageBus/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Services.MessageBus.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Services.MessageBus.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "Business.Model/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Business.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Business.Model.dll": {}
+        }
+      },
+      "Service.XMLSerialize/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Business.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Service.XMLSerialize.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Service.XMLSerialize.dll": {}
+        }
+      },
+      "Services.MessageBus/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Services.MessageBus.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Services.MessageBus.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "Business.Model/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Business.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Business.Model.dll": {}
+        }
+      },
+      "Service.XMLSerialize/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Business.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Service.XMLSerialize.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Service.XMLSerialize.dll": {}
+        }
+      },
+      "Services.MessageBus/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Services.MessageBus.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Services.MessageBus.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "Business.Model/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Business.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Business.Model.dll": {}
+        }
+      },
+      "Service.XMLSerialize/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Business.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Service.XMLSerialize.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Service.XMLSerialize.dll": {}
+        }
+      },
+      "Services.MessageBus/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Services.MessageBus.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Services.MessageBus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Business.Model/1.0.0": {
+      "type": "project",
+      "path": "../Business.Model/Business.Model.csproj",
+      "msbuildProject": "../Business.Model/Business.Model.csproj"
+    },
+    "Service.XMLSerialize/1.0.0": {
+      "type": "project",
+      "path": "../Service.XMLSerialize/Service.XMLSerialize.csproj",
+      "msbuildProject": "../Service.XMLSerialize/Service.XMLSerialize.csproj"
+    },
+    "Services.MessageBus/1.0.0": {
+      "type": "project",
+      "path": "../Services.MessageBus/Services.MessageBus.csproj",
+      "msbuildProject": "../Services.MessageBus/Services.MessageBus.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "Business.Model >= 1.0.0",
+      "Service.XMLSerialize >= 1.0.0",
+      "Services.MessageBus >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\yazan\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\yazan\\OneDrive\\Desktop\\Semester 3\\Anwendungsprogrammierung\\Aufgeben\\Hausarbeit\\Gruppe_093\\Gruppe_093\\ClientApp093\\Logic.Ui\\Logic.Ui.csproj",
+      "projectName": "Logic.Ui",
+      "projectPath": "C:\\Users\\yazan\\OneDrive\\Desktop\\Semester 3\\Anwendungsprogrammierung\\Aufgeben\\Hausarbeit\\Gruppe_093\\Gruppe_093\\ClientApp093\\Logic.Ui\\Logic.Ui.csproj",
+      "packagesPath": "C:\\Users\\yazan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yazan\\OneDrive\\Desktop\\Semester 3\\Anwendungsprogrammierung\\Aufgeben\\Hausarbeit\\Gruppe_093\\Gruppe_093\\ClientApp093\\Logic.Ui\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\yazan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {
+            "C:\\Users\\yazan\\OneDrive\\Desktop\\Semester 3\\Anwendungsprogrammierung\\Aufgeben\\Hausarbeit\\Gruppe_093\\Gruppe_093\\ClientApp093\\Business.Model\\Business.Model.csproj": {
+              "projectPath": "C:\\Users\\yazan\\OneDrive\\Desktop\\Semester 3\\Anwendungsprogrammierung\\Aufgeben\\Hausarbeit\\Gruppe_093\\Gruppe_093\\ClientApp093\\Business.Model\\Business.Model.csproj"
+            },
+            "C:\\Users\\yazan\\OneDrive\\Desktop\\Semester 3\\Anwendungsprogrammierung\\Aufgeben\\Hausarbeit\\Gruppe_093\\Gruppe_093\\ClientApp093\\Service.XMLSerialize\\Service.XMLSerialize.csproj": {
+              "projectPath": "C:\\Users\\yazan\\OneDrive\\Desktop\\Semester 3\\Anwendungsprogrammierung\\Aufgeben\\Hausarbeit\\Gruppe_093\\Gruppe_093\\ClientApp093\\Service.XMLSerialize\\Service.XMLSerialize.csproj"
+            },
+            "C:\\Users\\yazan\\OneDrive\\Desktop\\Semester 3\\Anwendungsprogrammierung\\Aufgeben\\Hausarbeit\\Gruppe_093\\Gruppe_093\\ClientApp093\\Services.MessageBus\\Services.MessageBus.csproj": {
+              "projectPath": "C:\\Users\\yazan\\OneDrive\\Desktop\\Semester 3\\Anwendungsprogrammierung\\Aufgeben\\Hausarbeit\\Gruppe_093\\Gruppe_093\\ClientApp093\\Services.MessageBus\\Services.MessageBus.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {}
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

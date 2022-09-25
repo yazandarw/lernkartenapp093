@@ -1,0 +1,103 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\yazan\\OneDrive\\Desktop\\Semester 3\\Anwendungsprogrammierung\\Aufgeben\\Hausarbeit\\Gruppe_093\\Gruppe_093\\ClientApp093\\Logic.Ui\\Logic.Ui.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\yazan\\OneDrive\\Desktop\\Semester 3\\Anwendungsprogrammierung\\Aufgeben\\Hausarbeit\\Gruppe_093\\Gruppe_093\\ClientApp093\\Business.Model\\Business.Model.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yazan\\OneDrive\\Desktop\\Semester 3\\Anwendungsprogrammierung\\Aufgeben\\Hausarbeit\\Gruppe_093\\Gruppe_093\\ClientApp093\\Business.Model\\Business.Model.csproj",
+        "projectName": "Business.Model",
+        "projectPath": "C:\\Users\\yazan\\OneDrive\\Desktop\\Semester 3\\Anwendungsprogrammierung\\Aufgeben\\Hausarbeit\\Gruppe_093\\Gruppe_093\\ClientApp093\\Business.Model\\Business.Model.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\yazan\\OneDrive\\Desktop\\Semester 3\\Anwendungsprogrammierung\\Aufgeben\\Hausarbeit\\Gruppe_093\\Gruppe_093\\ClientApp093\\Logic.Ui\\Logic.Ui.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yazan\\OneDrive\\Desktop\\Semester 3\\Anwendungsprogrammierung\\Aufgeben\\Hausarbeit\\Gruppe_093\\Gruppe_093\\ClientApp093\\Logic.Ui\\Logic.Ui.csproj",
+        "projectName": "Logic.Ui",
+        "projectPath": "C:\\Users\\yazan\\OneDrive\\Desktop\\Semester 3\\Anwendungsprogrammierung\\Aufgeben\\Hausarbeit\\Gruppe_093\\Gruppe_093\\ClientApp093\\Logic.Ui\\Logic.Ui.csproj",
+        "packagesPath": "C:\\Users\\yazan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yazan\\OneDrive\\Desktop\\Semester 3\\Anwendungsprogrammierung\\Aufgeben\\Hausarbeit\\Gruppe_093\\Gruppe_093\\ClientApp093\\Logic.Ui\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yazan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\yazan\\OneDrive\\Desktop\\Semester 3\\Anwendungsprogrammierung\\Aufgeben\\Hausarbeit\\Gruppe_093\\Gruppe_093\\ClientApp093\\Business.Model\\Business.Model.csproj": {
+                "projectPath": "C:\\Users\\yazan\\OneDrive\\Desktop\\Semester 3\\Anwendungsprogrammierung\\Aufgeben\\Hausarbeit\\Gruppe_093\\Gruppe_093\\ClientApp093\\Business.Model\\Business.Model.csproj"
+              },
+              "C:\\Users\\yazan\\OneDrive\\Desktop\\Semester 3\\Anwendungsprogrammierung\\Aufgeben\\Hausarbeit\\Gruppe_093\\Gruppe_093\\ClientApp093\\Service.XMLSerialize\\Service.XMLSerialize.csproj": {
+                "projectPath": "C:\\Users\\yazan\\OneDrive\\Desktop\\Semester 3\\Anwendungsprogrammierung\\Aufgeben\\Hausarbeit\\Gruppe_093\\Gruppe_093\\ClientApp093\\Service.XMLSerialize\\Service.XMLSerialize.csproj"
+              },
+              "C:\\Users\\yazan\\OneDrive\\Desktop\\Semester 3\\Anwendungsprogrammierung\\Aufgeben\\Hausarbeit\\Gruppe_093\\Gruppe_093\\ClientApp093\\Services.MessageBus\\Services.MessageBus.csproj": {
+                "projectPath": "C:\\Users\\yazan\\OneDrive\\Desktop\\Semester 3\\Anwendungsprogrammierung\\Aufgeben\\Hausarbeit\\Gruppe_093\\Gruppe_093\\ClientApp093\\Services.MessageBus\\Services.MessageBus.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\yazan\\OneDrive\\Desktop\\Semester 3\\Anwendungsprogrammierung\\Aufgeben\\Hausarbeit\\Gruppe_093\\Gruppe_093\\ClientApp093\\Service.XMLSerialize\\Service.XMLSerialize.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yazan\\OneDrive\\Desktop\\Semester 3\\Anwendungsprogrammierung\\Aufgeben\\Hausarbeit\\Gruppe_093\\Gruppe_093\\ClientApp093\\Service.XMLSerialize\\Service.XMLSerialize.csproj",
+        "projectName": "Service.XMLSerialize",
+        "projectPath": "C:\\Users\\yazan\\OneDrive\\Desktop\\Semester 3\\Anwendungsprogrammierung\\Aufgeben\\Hausarbeit\\Gruppe_093\\Gruppe_093\\ClientApp093\\Service.XMLSerialize\\Service.XMLSerialize.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\yazan\\OneDrive\\Desktop\\Semester 3\\Anwendungsprogrammierung\\Aufgeben\\Hausarbeit\\Gruppe_093\\Gruppe_093\\ClientApp093\\Business.Model\\Business.Model.csproj": {
+                "projectPath": "C:\\Users\\yazan\\OneDrive\\Desktop\\Semester 3\\Anwendungsprogrammierung\\Aufgeben\\Hausarbeit\\Gruppe_093\\Gruppe_093\\ClientApp093\\Business.Model\\Business.Model.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\yazan\\OneDrive\\Desktop\\Semester 3\\Anwendungsprogrammierung\\Aufgeben\\Hausarbeit\\Gruppe_093\\Gruppe_093\\ClientApp093\\Services.MessageBus\\Services.MessageBus.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yazan\\OneDrive\\Desktop\\Semester 3\\Anwendungsprogrammierung\\Aufgeben\\Hausarbeit\\Gruppe_093\\Gruppe_093\\ClientApp093\\Services.MessageBus\\Services.MessageBus.csproj",
+        "projectName": "Services.MessageBus",
+        "projectPath": "C:\\Users\\yazan\\OneDrive\\Desktop\\Semester 3\\Anwendungsprogrammierung\\Aufgeben\\Hausarbeit\\Gruppe_093\\Gruppe_093\\ClientApp093\\Services.MessageBus\\Services.MessageBus.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

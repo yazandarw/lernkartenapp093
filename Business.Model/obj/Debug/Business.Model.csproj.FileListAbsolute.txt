@@ -1,0 +1,28 @@
+C:\Users\yazan\OneDrive\Desktop\ClientApp093\Business.Model\bin\Debug\Business.Model.dll
+C:\Users\yazan\OneDrive\Desktop\ClientApp093\Business.Model\bin\Debug\Business.Model.pdb
+C:\Users\yazan\OneDrive\Desktop\ClientApp093\Business.Model\obj\Debug\Business.Model.csproj.CoreCompileInputs.cache
+C:\Users\yazan\OneDrive\Desktop\ClientApp093\Business.Model\obj\Debug\Business.Model.dll
+C:\Users\yazan\OneDrive\Desktop\ClientApp093\Business.Model\obj\Debug\Business.Model.pdb
+C:\Users\yazan\OneDrive\Desktop\Gruppe_093\ClientApp093\Business.Model\bin\Debug\Business.Model.dll
+C:\Users\yazan\OneDrive\Desktop\Gruppe_093\ClientApp093\Business.Model\bin\Debug\Business.Model.pdb
+C:\Users\yazan\OneDrive\Desktop\Gruppe_093\ClientApp093\Business.Model\obj\Debug\Business.Model.csproj.CoreCompileInputs.cache
+C:\Users\yazan\OneDrive\Desktop\Gruppe_093\ClientApp093\Business.Model\obj\Debug\Business.Model.dll
+C:\Users\yazan\OneDrive\Desktop\Gruppe_093\ClientApp093\Business.Model\obj\Debug\Business.Model.pdb
+C:\Users\yazan\OneDrive\Desktop\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Gruppe_093\Gruppe_093\ClientApp093\Business.Model\bin\Debug\Business.Model.dll
+C:\Users\yazan\OneDrive\Desktop\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Gruppe_093\Gruppe_093\ClientApp093\Business.Model\bin\Debug\Business.Model.pdb
+C:\Users\yazan\OneDrive\Desktop\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Gruppe_093\Gruppe_093\ClientApp093\Business.Model\obj\Debug\Business.Model.csproj.CoreCompileInputs.cache
+C:\Users\yazan\OneDrive\Desktop\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Gruppe_093\Gruppe_093\ClientApp093\Business.Model\obj\Debug\Business.Model.dll
+C:\Users\yazan\OneDrive\Desktop\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Gruppe_093\Gruppe_093\ClientApp093\Business.Model\obj\Debug\Business.Model.pdb
+C:\Users\yazan\OneDrive\Desktop\Anwendungsprogrammierung\ClientApp093\Business.Model\bin\Debug\Business.Model.dll
+C:\Users\yazan\OneDrive\Desktop\Anwendungsprogrammierung\ClientApp093\Business.Model\bin\Debug\Business.Model.pdb
+C:\Users\yazan\OneDrive\Desktop\Anwendungsprogrammierung\ClientApp093\Business.Model\obj\Debug\Business.Model.csprojAssemblyReference.cache
+C:\Users\yazan\OneDrive\Desktop\Anwendungsprogrammierung\ClientApp093\Business.Model\obj\Debug\Business.Model.csproj.CoreCompileInputs.cache
+C:\Users\yazan\OneDrive\Desktop\Anwendungsprogrammierung\ClientApp093\Business.Model\obj\Debug\Business.Model.dll
+C:\Users\yazan\OneDrive\Desktop\Anwendungsprogrammierung\ClientApp093\Business.Model\obj\Debug\Business.Model.pdb
+D:\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Anwendungsprogrammierung\ClientApp093\Business.Model\bin\Debug\Business.Model.dll
+D:\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Anwendungsprogrammierung\ClientApp093\Business.Model\bin\Debug\Business.Model.pdb
+D:\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Anwendungsprogrammierung\ClientApp093\Business.Model\obj\Debug\Business.Model.csproj.AssemblyReference.cache
+D:\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Anwendungsprogrammierung\ClientApp093\Business.Model\obj\Debug\Business.Model.csproj.CoreCompileInputs.cache
+D:\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Anwendungsprogrammierung\ClientApp093\Business.Model\obj\Debug\Business.Model.dll
+D:\Semester 3\Anwendungsprogrammierung\Aufgeben\Hausarbeit\Anwendungsprogrammierung\ClientApp093\Business.Model\obj\Debug\Business.Model.pdb
+C:\Users\yazan\OneDrive\Desktop\ClientApp093\Business.Model\obj\Debug\Business.Model.csproj.AssemblyReference.cache
